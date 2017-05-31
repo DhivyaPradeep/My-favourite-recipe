@@ -1,0 +1,19 @@
+body{
+  text-align:center;
+  font-size: 25;
+}
+img{
+    margin-top: 40 px;
+    border:10px black solid;
+    border-radius: 40px;
+}
+ul{
+    padding-left: 320px;
+    padding-right: 320px;
+    list-style: disc;
+}
+ol{
+    padding-left: 320px;
+    padding-right: 320px;
+    list-style:lower-roman;
+}
